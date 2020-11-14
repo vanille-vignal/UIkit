@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&family=Oswald&display=swap');
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	margin: 0px; 
+
+	
+}
+
+h1 {
+	font-family: 'Montserrat', sans-serif;
+	color: white;
+	font-weight: bold;
+	text-decoration: underline;
+}
+	
+h2, h3 {
+	font-family: 'Montserrat', sans-serif;
+	color: #0296B7;
+	font-weight: bold;
+}
+
+.title {
+	text-align: center;
+	margin-top: 100px;
+}
